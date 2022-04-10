@@ -4,6 +4,11 @@ Voice trainer is a hobby project for hobby musicians. The app offers a simple in
 
 ## Getting Started
 
+First make sure to install node in your computer:
+```
+sudo apt install nodejs
+```
+
 ### Installation
 
 ```bash
