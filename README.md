@@ -41,5 +41,11 @@ The app is running in a hobby instance of vercel:
 [Production instance](https://voice-trainer-kg8920zu9-pisti2010.vercel.app/)
 
 
-## Fernando-pr 
-Added line 45 to push to Fernando-pr branch.
+## Fernando-pr - Branch push troubleshooting
+Added line 45 to push to Fernando-pr branch. 
+
+While attempting to push the README.md edits to the appropriate branch, I ran into some issues, but they were fixed by:
+- Creating a new branch with an easily writeable name in terminal.
+- Switched the branch I was pushing to from *master to Fernando-pr (new branch).
+
+However, before this, I went through a pain of troubleshooting from Google searches, which advised  I used git pull, and other commands that did not work. In the end, after thorough research, I figured it all out. 
