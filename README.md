@@ -39,3 +39,10 @@ The project also draws inspiration from:
 
 The app is running in a hobby instance of vercel:
 [Production instance](https://voice-trainer-kg8920zu9-pisti2010.vercel.app/)
+
+## How to make a Pull Request
+
+1. Google "How to make a pull request in github"
+2. Struggle
+3. ...
+4. Profit
