@@ -41,4 +41,4 @@ The app is running in a hobby instance of vercel:
 [Production instance](https://voice-trainer-kg8920zu9-pisti2010.vercel.app/)
 
 
-Testing pull request
+Testing pull request - Sebas
